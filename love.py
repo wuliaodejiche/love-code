@@ -1,3 +1,5 @@
+# 何书悦GitHub爱心代码项目https://github.com/heshuyue/love-code
+
 import random
 from math import sin, cos, pi, log
 from tkinter import *
@@ -185,5 +187,3 @@ if __name__ == '__main__':
     heart = Heart()
     draw(root, canvas, heart)
     root.mainloop()
-
-# 程序员何未来GitHub爱心代码项目github.com/he-weilai/love-code

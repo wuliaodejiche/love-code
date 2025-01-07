@@ -1,3 +1,5 @@
+// 何书悦GitHub爱心代码项目https://github.com/heshuyue/love-code
+
 #include <stdio.h>
 #include <math.h>
 #include <windows.h>
@@ -60,5 +62,3 @@ int main()
         Sleep(33);
     }
 }
-
-// 程序员何未来GitHub爱心代码项目github.com/he-weilai/love-code
